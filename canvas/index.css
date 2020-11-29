@@ -1,0 +1,11 @@
+header{
+    text-align: center;
+}
+article{
+    text-align: center;
+}
+.step{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
